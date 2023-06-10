@@ -1,0 +1,59 @@
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bytes - Digital Agency</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="#services">Services</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+    <h1>Bytes</h1>
+    <p>Your partner in digital success.</p>
+  </header>
+  <main>
+    <section id="services">
+      <h2>Our Services</h2>
+      <p>At Bytes, we offer a range of digital services to help your business succeed online. Our services include:</p>
+      <ul>
+        <li>Website design and development</li>
+        <li>Search engine optimization (SEO)</li>
+        <li>Pay-per-click (PPC) advertising</li>
+        <li>Social media marketing</li>
+        <li>Email marketing</li>
+        <li>Content creation and marketing</li>
+      </ul>
+    </section>
+    <section id="about">
+      <h2>About Us</h2>
+      <p>At Bytes, we are passionate about helping businesses achieve their digital goals. Our team of experienced professionals has a proven track record of delivering results for our clients.</p>
+      <p>Whether you're a small business just starting out or a large corporation looking to improve your online presence, we can help. Contact us today to learn more about how we can help you succeed online.</p>
+    </section>
+    <section id="contact">
+      <h2>Contact Us</h2>
+      <p>Ready to get started? Contact us today to schedule a consultation. We look forward to hearing from you!</p>
+      <form>
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" required>
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required>
+        <label for="message">Message:</label>
+        <textarea id="message" name="message" required></textarea>
+        <button type="submit">Send</button>
+      </form>
+    </section>
+  </main>
+  <footer>
+    <p>&copy; 2023 Bytes. All rights reserved.</p>
+  </footer>
+</body>
+</html>
+```
